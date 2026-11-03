@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi, I'm Heet Gadhiya 👋</h1>
+﻿<h1 align="center">Hi, I'm HEET VINODBHAI GADHIYA 👋</h1>
 <p align="center"><b>Machine learning & Edge AI engineer</b>: models that run where the data is, on microcontrollers with kilobytes of memory.</p>
 
 <p align="center">
