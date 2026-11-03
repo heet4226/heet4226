@@ -2,7 +2,7 @@
 <p align="center"><b>Machine learning & Edge AI engineer</b>: models that run where the data is, on microcontrollers with kilobytes of memory.</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black"> <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white"> <img src="https://img.shields.io/badge/FreeRTOS-5B8C32">
+<a href="https://heet4226.github.io/EDGE-AI-FOR-ANOMALY-DETECTION/edge-ai-motor-monitoring/"><b>▶ Interactive project overview</b></a> · <a href="https://heet4226.github.io/EDGE-AI-FOR-ANOMALY-DETECTION/edge-ai-motor-monitoring/firmware.html"><b>⚙️ Firmware overview</b></a> · <a href="https://github.com/heet4226/EDGE-AI-FOR-ANOMALY-DETECTION"><b>📂 Full portfolio</b></a>
 </p>
 
 ## 🚀 EDGE AI THESIS
