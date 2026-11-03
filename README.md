@@ -1,28 +1,36 @@
-<h1 align="center">Hi 👋, I'm Heet Gadhiya</h1>
-<h3 align="center">🚀 Embedded Systems Engineer in the making, with expertise in VHDL, Python, and C and hands-on experience with hardware-focused programming and FPGA development.</h3>
+﻿<h1 align="center">Hi, I'm Heet Gadhiya 👋</h1>
+<p align="center"><b>Machine learning & Edge AI engineer</b>: models that run where the data is, on microcontrollers with kilobytes of memory.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heet4226&label=Profile%20views&color=0e75b6&style=flat" alt="heet4226" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **FPGA Programming for Hardware Development.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/heet4226](https://github.com/heet4226)
-
-- 📫 How to reach me **heetgadhiya121@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/heet-gadhiya-1758aa212/](https://www.linkedin.com/in/heet-gadhiya-1758aa212/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/heetgadhiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heetgadhiya" height="30" width="40" /></a>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black"> <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white"> <img src="https://img.shields.io/badge/FreeRTOS-5B8C32">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 Featured project
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heet4226&show_icons=true&locale=en&layout=compact" alt="heet4226" /></p>
+<a href="https://github.com/Heet4226/edge-ai-for-anomaly-detection/tree/main/projects/edge-ai-motor-monitoring"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg"><img src="assets/pipeline-light.svg" width="100%" alt="Animated pipeline: sensors, on-device features, 22 models, evaluation, STM32 deployment"></picture></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heet4226&show_icons=true&locale=en" alt="heet4226" /></p>
+<a href="https://github.com/Heet4226/edge-ai-for-anomaly-detection/tree/main/projects/edge-ai-motor-monitoring"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-card-dark.svg"><img src="assets/project-card-light.svg" width="100%" alt="22 models benchmarked, 20 deployed on STM32, best test score 97.1%"></picture></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heet4226&" alt="heet4226" /></p>
+<p>
+<a href="https://github.com/Heet4226/edge-ai-for-anomaly-detection/tree/main/projects/edge-ai-motor-monitoring/firmware/Threads/Ethernet/lwip/webpage"><img src="assets/dashboard.png" width="49%" alt="Live dashboard served by the MCU"></a>
+<a href="https://github.com/Heet4226/edge-ai-for-anomaly-detection/tree/main/projects/edge-ai-motor-monitoring/firmware/X-CUBE-AI/App"><img src="assets/ai_decision.png" width="49%" alt="On-device AI decision"></a><br>
+<a href="https://github.com/Heet4226/edge-ai-for-anomaly-detection/blob/main/projects/edge-ai-motor-monitoring/README.md#all-models"><img src="assets/leaderboard.png" width="49%" alt="22 models ranked on unseen data"></a>
+<a href="https://github.com/Heet4226/edge-ai-for-anomaly-detection/tree/main/projects/edge-ai-motor-monitoring/models/19_mlp_hybrid"><img src="assets/best_model.png" width="49%" alt="Best model: MLP hybrid"></a><br>
+<a href="https://github.com/Heet4226/edge-ai-for-anomaly-detection/blob/main/projects/edge-ai-motor-monitoring/results/model_comparison.csv"><img src="assets/tradeoff.png" width="49%" alt="Accuracy vs. cost on the MCU"></a>
+<a href="https://github.com/Heet4226/edge-ai-for-anomaly-detection/tree/main/projects/edge-ai-motor-monitoring/firmware"><img src="assets/firmware.png" width="49%" alt="Firmware: 7 FreeRTOS tasks"></a><br>
+<a href="https://github.com/Heet4226/edge-ai-for-anomaly-detection/tree/main/projects/edge-ai-motor-monitoring/data"><img src="assets/features.png" width="49%" alt="Feature fingerprints per fault"></a>
+<a href="https://github.com/Heet4226/edge-ai-for-anomaly-detection/blob/main/projects/edge-ai-motor-monitoring/models/19_mlp_hybrid/mlp_hybrid.ipynb"><img src="assets/timeline.png" width="49%" alt="Predictions over time"></a><br>
+</p>
+
+<p align="center"><a href="https://Heet4226.github.io/edge-ai-for-anomaly-detection/edge-ai-motor-monitoring/"><b>▶ Interactive project overview</b></a> · <a href="https://github.com/Heet4226/edge-ai-for-anomaly-detection"><b>📂 Full portfolio</b></a></p>
+
+## 🧰 What I work on
+
+- **Machine learning:** classical models, anomaly detection, leakage-free evaluation
+- **Deep learning:** MLP, CNN, TCN, LSTM/GRU, multi-task networks (TensorFlow/Keras)
+- **Edge AI / TinyML:** TFLite and ONNX export, X-CUBE-AI, on-target validation, memory and latency profiling
+- **Embedded:** FreeRTOS, DMA sensor drivers, feature extraction in C, lwIP web server
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/heet-gadhiya-1758aa212) 
