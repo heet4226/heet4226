@@ -1,9 +1,6 @@
 ﻿<h1 align="center">Hi, I'm HEET VINODBHAI GADHIYA 👋</h1>
 <p align="center"><b>Machine learning & Edge AI engineer</b>: models that run where the data is, on microcontrollers with kilobytes of memory.</p>
 
-<p align="center">
-<a href="https://heet4226.github.io/EDGE-AI-FOR-ANOMALY-DETECTION/edge-ai-motor-monitoring/"><b>▶ Interactive project overview</b></a> · <a href="https://heet4226.github.io/EDGE-AI-FOR-ANOMALY-DETECTION/edge-ai-motor-monitoring/firmware.html"><b>⚙️ Firmware overview</b></a> · <a href="https://github.com/heet4226/EDGE-AI-FOR-ANOMALY-DETECTION"><b>📂 Full portfolio</b></a>
-</p>
 
 ## 🚀 EDGE AI THESIS
 
@@ -24,7 +21,7 @@
 <a href="https://github.com/heet4226/EDGE-AI-FOR-ANOMALY-DETECTION/blob/main/projects/edge-ai-motor-monitoring/models/19_mlp_hybrid/mlp_hybrid.ipynb"><img src="assets/timeline.png" width="49%" alt="Predictions over time"></a><br>
 </p>
 
-<p align="center"><a href="https://heet4226.github.io/EDGE-AI-FOR-ANOMALY-DETECTION/edge-ai-motor-monitoring/"><b>▶ Interactive project overview</b></a> · <a href="https://github.com/heet4226/EDGE-AI-FOR-ANOMALY-DETECTION"><b>📂 Full portfolio</b></a></p>
+<p align="center"><a href="https://heet4226.github.io/EDGE-AI-FOR-ANOMALY-DETECTION/edge-ai-motor-monitoring/"><b>▶ Interactive project overview</b></a> · <a href="https://heet4226.github.io/EDGE-AI-FOR-ANOMALY-DETECTION/edge-ai-motor-monitoring/firmware.html"><b>⚙️ Firmware overview</b></a> · <a href="https://github.com/heet4226/EDGE-AI-FOR-ANOMALY-DETECTION"><b>📂 Full portfolio</b></a></p>
 
 ## 🧰 What I work on
 
