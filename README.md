@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black"> <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white"> <img src="https://img.shields.io/badge/FreeRTOS-5B8C32">
 </p>
 
-## 🚀 Featured project
+## 🚀 EDGE AI THESIS
 
 <a href="https://github.com/heet4226/EDGE-AI-FOR-ANOMALY-DETECTION/tree/main/projects/edge-ai-motor-monitoring"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg"><img src="assets/pipeline-light.svg" width="100%" alt="Animated pipeline: sensors, on-device features, 22 models, evaluation, STM32 deployment"></picture></a>
 
