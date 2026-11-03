@@ -2,7 +2,7 @@
 <p align="center"><b>Machine learning & Edge AI engineer</b>: models that run where the data is, on microcontrollers with kilobytes of memory.</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black"> <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white"> <img src="https://img.shields.io/badge/FreeRTOS-5B8C32">
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a> <a href="https://www.tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"></a> <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white"></a> <a href="https://onnx.ai"><img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white"></a> <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black"></a> <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white"></a> <a href="https://www.freertos.org"><img src="https://img.shields.io/badge/FreeRTOS-5B8C32"></a>
 </p>
 
 ## 🧠 About Me
